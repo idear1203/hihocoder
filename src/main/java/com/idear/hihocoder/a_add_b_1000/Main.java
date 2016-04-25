@@ -1,4 +1,4 @@
-package com.idear.hihocoder.a_add_b;
+package com.idear.hihocoder.a_add_b_1000;
 
 import java.util.Scanner;
 

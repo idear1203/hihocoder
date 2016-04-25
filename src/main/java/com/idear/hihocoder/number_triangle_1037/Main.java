@@ -1,4 +1,4 @@
-package com.idear.hihocoder.number_triangle;
+package com.idear.hihocoder.number_triangle_1037;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package com.idear.hihocoder.kmp;
+package com.idear.hihocoder.kmp_1015;
 
 import  java.util.*;
 

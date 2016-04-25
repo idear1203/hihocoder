@@ -1,4 +1,4 @@
-package com.idear.hihocoder.trie_tree;
+package com.idear.hihocoder.trie_tree_1014;
 
 import java.util.*;
 
