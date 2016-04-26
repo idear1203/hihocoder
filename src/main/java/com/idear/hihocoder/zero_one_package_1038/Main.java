@@ -1,4 +1,4 @@
-package com.idear.hihocoder.zero_one_package_1043;
+package com.idear.hihocoder.zero_one_package_1038;
 
 import java.util.*;
 
