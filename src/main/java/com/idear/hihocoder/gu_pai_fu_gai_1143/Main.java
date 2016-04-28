@@ -48,8 +48,7 @@ class Identity extends Matrix{
 
 public class Main{
     private static Matrix matrixPow(Matrix matrix, int n){
-        int size = matrix.n;
-        Matrix result = new Identity(size);
+        Matrix result = new Identity(matrix.n);
         Matrix tmp = matrix;
         for (; n > 0; n >>= 1){
             if ((n & 1) == 1){
